@@ -1,2 +1,2 @@
-# TalkUI
-This app featured with the basic flutter ui as well as finger print local authentication
+light : AA3DFF
+dark : 9610FF
